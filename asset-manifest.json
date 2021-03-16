@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://SaraVieira.github.io/csb-6iseg/static/css/main.09eb07a5.chunk.css",
+    "main.js": "https://SaraVieira.github.io/csb-6iseg/static/js/main.396a9ee3.chunk.js",
+    "main.js.map": "https://SaraVieira.github.io/csb-6iseg/static/js/main.396a9ee3.chunk.js.map",
+    "runtime-main.js": "https://SaraVieira.github.io/csb-6iseg/static/js/runtime-main.77d7828e.js",
+    "runtime-main.js.map": "https://SaraVieira.github.io/csb-6iseg/static/js/runtime-main.77d7828e.js.map",
+    "static/js/2.03110b6a.chunk.js": "https://SaraVieira.github.io/csb-6iseg/static/js/2.03110b6a.chunk.js",
+    "static/js/2.03110b6a.chunk.js.map": "https://SaraVieira.github.io/csb-6iseg/static/js/2.03110b6a.chunk.js.map",
+    "index.html": "https://SaraVieira.github.io/csb-6iseg/index.html",
+    "static/css/main.09eb07a5.chunk.css.map": "https://SaraVieira.github.io/csb-6iseg/static/css/main.09eb07a5.chunk.css.map",
+    "static/js/2.03110b6a.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-6iseg/static/js/2.03110b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d7828e.js",
+    "static/js/2.03110b6a.chunk.js",
+    "static/css/main.09eb07a5.chunk.css",
+    "static/js/main.396a9ee3.chunk.js"
+  ]
+}
